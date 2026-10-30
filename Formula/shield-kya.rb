@@ -1,8 +1,8 @@
 class ShieldKya < Formula
   desc "Audit trail and traceability for AI agents"
   homepage "https://shield-agent.com/install"
-  url "https://registry.npmjs.org/@shield-agent/kya/-/kya-0.32.7.tgz"
-  sha256 "636be7a469712c0adc8ec72184fec617fd53b24ebe83d053c443ce7058979a68"
+  url "https://registry.npmjs.org/@shield-agent/kya/-/kya-0.32.9.tgz"
+  sha256 "70f6d20034744b25dd4e1a1b0b154dc9a6a2322ae2653cc7df4834568d3fe98c"
   license "MIT"
 
   # kya needs Node >= 22 (package.json engines). Homebrew "node" is the current
