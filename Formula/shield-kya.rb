@@ -1,8 +1,8 @@
 class ShieldKya < Formula
   desc "Stops your coding agent from deleting, leaking or dropping things"
   homepage "https://shield-agent.com/install"
-  url "https://registry.npmjs.org/@shield-agent/kya/-/kya-0.35.6.tgz"
-  sha256 "873f5b915a27f70ced312aa9dffb5a8e6daf320293308456922985bdc18222b4"
+  url "https://registry.npmjs.org/@shield-agent/kya/-/kya-0.35.7.tgz"
+  sha256 "b8387dd2cb1dce877db625c6208609b9014d8056aaf51ffc288fa03d6812f736"
   license "MIT"
 
   # kya needs Node >= 22 (package.json engines). Homebrew "node" is the current
